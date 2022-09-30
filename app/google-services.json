@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "497614587224",
+    "firebase_url": "https://projectmovie-26e85-default-rtdb.firebaseio.com",
+    "project_id": "projectmovie-26e85",
+    "storage_bucket": "projectmovie-26e85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497614587224:android:884a5a27d08813ae8c512d",
+        "android_client_info": {
+          "package_name": "com.example.lab12androidfirebasebydanaith"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497614587224-uh9gnqg1nlb4sv8esbfpgbht8fbg1002.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3AQbAoASChFvTBpzQrgh38ks2mfAI-t8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497614587224-uh9gnqg1nlb4sv8esbfpgbht8fbg1002.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
